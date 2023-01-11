@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(129,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(130,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(171,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(200,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(229,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\CheatEngine\CheatEngine\main.cpp(248): warning C4715: 'WndProc': not all control paths return a value
+  CheatEngine.vcxproj -> D:\Visual Studio\CheatEngine\x64\Debug\CheatEngine.exe
